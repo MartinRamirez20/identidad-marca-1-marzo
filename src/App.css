@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div1 {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
