@@ -4,8 +4,25 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.principal {
+  background-color: #f0f0f0;
+  padding: 40px;
+}
+
 .div1 {
   background-color: #000;
   color: #fff;
   padding: 20px;
+}
+.div1 .col1 {
+  padding: 20px;
+  text-align: center;
+}
+
+.div1 .col2 {
+  padding: 20px;
+  text-align: center;
+}
+.div1 .col2 > img {
+  border-radius: 100px;
 }
