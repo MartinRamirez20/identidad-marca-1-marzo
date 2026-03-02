@@ -6,13 +6,12 @@
 
 .principal {
   background-color: #0A1E38;
-  padding: 40px;
-  padding-bottom: 100px;
+  padding: 35px;
 }
 
 .div1 {
   background-color: #FEEAC9;
-  border-radius: 100px;
+  border-radius: 50px;
   color: #000;
   padding: 40px;
 }
@@ -34,7 +33,7 @@
 
 .div2 {
   background-color: #FEEAC9;
-  border-radius: 100px;
+  border-radius: 50px;
   color: #000;
   padding: 40px;
 }
@@ -52,4 +51,103 @@
 .div2 .col3 > img {
   border-radius: 100px;
   margin-top: 20px;
+}
+
+.div3 {
+  background-color: #FEEAC9;
+  border-radius: 50px;
+  color: #000;
+  padding: 40px;
+}
+.div3 .col1 {
+  padding: 20px;
+  text-align: right;
+}
+.div3 .col2 {
+  padding: 20px;
+  text-align: justify;
+}
+
+.div4 {
+  background-color: #FEEAC9;
+  border-radius: 50px;
+  color: #000;
+  padding: 40px;
+}
+.div4 .col1 {
+  padding: 20px;
+  text-align: right;
+}
+.div4 .col2 {
+  padding: 20px;
+  text-align: justify;
+}
+.div4 .col3{
+  padding: 10px;
+  text-align: center;
+  background-color: #8E977D;
+  border-radius: 50px;
+}
+.div4 .col3 .color1 {
+  width: 100px;
+  height: 100px;
+  background-color: #0A1E38;
+  border-radius: 50%;
+}
+.div4 .col4{
+  padding: 10px;
+  text-align: center;
+  background-color: #8E977D;
+  border-radius: 50px;
+}
+.div4 .col4 .color2 {
+  width: 100px;
+  height: 100px;
+  background-color: #C5A059;
+  border-radius: 50%;
+}
+.div4 .col5{
+  padding: 10px;
+  text-align: center;
+  background-color: #8E977D;
+  border-radius: 50px;
+}
+.div4 .col5 .color3 {
+  width: 100px;
+  height: 100px;
+  background-color: #E8D8C3;
+  border-radius: 50%;
+}
+.div4 .col6{
+  padding: 10px;
+  text-align: center;
+  background-color: #8E977D;
+  border-radius: 50px;
+}
+.div4 .col6 .color4 {
+  width: 100px;
+  height: 100px;
+  background-color: #F2EDE4;
+  border-radius: 50%;
+}
+
+.div5 {
+  background-color: #FEEAC9;
+  border-radius: 50px;
+  color: #000;
+  padding: 40px;
+}
+.div5 .col1 {
+  padding: 20px;
+  text-align: justify;
+}
+.div5 .col2 {
+  padding: 20px;
+  text-align: left;
+}
+footer {
+  background-color: #0A1E38;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
 }
