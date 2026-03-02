@@ -5,18 +5,23 @@
 }
 
 .principal {
-  background-color: #f0f0f0;
+  background-color: #0A1E38;
   padding: 40px;
+  padding-bottom: 100px;
 }
 
 .div1 {
-  background-color: #000;
-  color: #fff;
-  padding: 20px;
+  background-color: #FEEAC9;
+  border-radius: 100px;
+  color: #000;
+  padding: 40px;
 }
-.div1 .col1 {
+.div1 .col1 { 
   padding: 20px;
   text-align: center;
+}
+.div1 .col1 > h1 {
+  font-size: 90px;
 }
 
 .div1 .col2 {
@@ -25,4 +30,26 @@
 }
 .div1 .col2 > img {
   border-radius: 100px;
+}
+
+.div2 {
+  background-color: #FEEAC9;
+  border-radius: 100px;
+  color: #000;
+  padding: 40px;
+}
+.div2 .col1 {
+  padding-top: 40px;
+  text-align: center;
+}
+.div2 .col1 > h2 {
+  font-size: 40px;
+}
+.div2 .col2 {
+  padding: 40px;
+  text-align: justify;
+}
+.div2 .col3 > img {
+  border-radius: 100px;
+  margin-top: 20px;
 }
